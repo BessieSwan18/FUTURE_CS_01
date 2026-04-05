@@ -7,6 +7,7 @@ This project presents a security assessment of a self-developed portfolio web ap
 The goal was to apply practical penetration testing techniques and evaluate the application against widely accepted security best practices, including the OWASP Top 10.
 
 🎯 Objectives
+
 Assess the security posture of a web application I developed
 Identify vulnerabilities using industry-standard tools
 Analyze common web security misconfigurations
