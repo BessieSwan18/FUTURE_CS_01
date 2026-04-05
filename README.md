@@ -1,20 +1,21 @@
- Web Application Security Assessment (Portfolio Project)
+🛡️ Web Application Security Assessment (Portfolio Project)
+📌 Overview
 
 This project presents a security assessment of a self-developed portfolio web application, conducted to identify common vulnerabilities and misconfigurations found in modern web environments.
+
 The goal was to apply practical penetration testing techniques and evaluate the application against widely accepted security best practices, including the OWASP Top 10.
 
-*Objectives*
+🎯 Objectives
 Assess the security posture of a web application I developed
 Identify vulnerabilities using industry-standard tools
 Analyze common web security misconfigurations
 Demonstrate practical knowledge of web application security
-
-Tools & Technologies
+🧰 Tools & Technologies
 OWASP ZAP – Automated vulnerability scanning
 Nmap – Network discovery and port scanning
 Node.js (Express) – Application backend
 HTML, CSS, JavaScript – Frontend
-Assessment Approach
+🔍 Assessment Approach
 
 The assessment was conducted using a combination of:
 
@@ -35,7 +36,7 @@ Missing protections against common web-based attacks
 
 While no critical vulnerabilities were identified, these issues could pose risks if deployed in a production environment.
 
-Security Improvements
+🛠️ Security Improvements
 
 The following improvements were identified to strengthen the application:
 
@@ -44,20 +45,22 @@ Implementation of security headers (e.g., CSP, X-Frame-Options)
 Enforcement of HTTPS for secure data transmission
 Addition of CSRF protection mechanisms
 Hardening of overall application configuration
-
-*Screenshots*
+📸 Screenshots
 
 Screenshots from the assessment process (OWASP ZAP results and application interface) are included in the /images directory.
 
-
-Key Skills Demonstrated
+📁 Project Structure
+FUTURE_CS_02/
+│── README.md
+│── images/
+│── report/
+📊 Key Skills Demonstrated
 Web Application Security Testing
 Vulnerability Identification & Analysis
 Use of Security Testing Tools (OWASP ZAP, Nmap)
 Secure Configuration Practices
 Understanding of OWASP Top 10
-
-Project Significance
+💡 Project Significance
 
 This project demonstrates the ability to:
 
@@ -65,10 +68,9 @@ Evaluate an application from a security perspective
 Identify and prioritize real-world risks
 Apply both offensive and defensive security concepts
 Bridge the gap between development and security
+👨‍💻 Author
 
-Author
-
-Keabetswe Basetsana Mashigo
+Thamsanqa Skenjana
 Aspiring Cybersecurity Specialist
 
 📚 References
