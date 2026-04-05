@@ -55,13 +55,9 @@ Hardening of overall application configuration
 
 Screenshots from the assessment process (OWASP ZAP results and application interface) are included in the /images directory.
 
-📁 Project Structure
-FUTURE_CS_02/
-│── README.md
-│── images/
-│── report/
 
 📊 Key Skills Demonstrated
+
 Web Application Security Testing
 Vulnerability Identification & Analysis
 Use of Security Testing Tools (OWASP ZAP, Nmap)
