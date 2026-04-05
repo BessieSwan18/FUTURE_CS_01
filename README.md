@@ -1,4 +1,5 @@
 🛡️ Web Application Security Assessment (Portfolio Project)
+
 📌 Overview
 
 This project presents a security assessment of a self-developed portfolio web application, conducted to identify common vulnerabilities and misconfigurations found in modern web environments.
@@ -15,6 +16,7 @@ OWASP ZAP – Automated vulnerability scanning
 Nmap – Network discovery and port scanning
 Node.js (Express) – Application backend
 HTML, CSS, JavaScript – Frontend
+
 🔍 Assessment Approach
 
 The assessment was conducted using a combination of:
@@ -45,6 +47,7 @@ Implementation of security headers (e.g., CSP, X-Frame-Options)
 Enforcement of HTTPS for secure data transmission
 Addition of CSRF protection mechanisms
 Hardening of overall application configuration
+
 📸 Screenshots
 
 Screenshots from the assessment process (OWASP ZAP results and application interface) are included in the /images directory.
@@ -54,12 +57,14 @@ FUTURE_CS_02/
 │── README.md
 │── images/
 │── report/
+
 📊 Key Skills Demonstrated
 Web Application Security Testing
 Vulnerability Identification & Analysis
 Use of Security Testing Tools (OWASP ZAP, Nmap)
 Secure Configuration Practices
 Understanding of OWASP Top 10
+
 💡 Project Significance
 
 This project demonstrates the ability to:
@@ -68,9 +73,10 @@ Evaluate an application from a security perspective
 Identify and prioritize real-world risks
 Apply both offensive and defensive security concepts
 Bridge the gap between development and security
+
 👨‍💻 Author
 
-Thamsanqa Skenjana
+Keabetswe Basetsana Mashigo
 Aspiring Cybersecurity Specialist
 
 📚 References
