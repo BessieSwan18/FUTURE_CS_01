@@ -3,7 +3,7 @@
 This project presents a security assessment of a self-developed portfolio web application, conducted to identify common vulnerabilities and misconfigurations found in modern web environments.
 The goal was to apply practical penetration testing techniques and evaluate the application against widely accepted security best practices, including the OWASP Top 10.
 
-Objectives
+*Objectives*
 Assess the security posture of a web application I developed
 Identify vulnerabilities using industry-standard tools
 Analyze common web security misconfigurations
@@ -45,15 +45,10 @@ Enforcement of HTTPS for secure data transmission
 Addition of CSRF protection mechanisms
 Hardening of overall application configuration
 
-Screenshots
+*Screenshots*
 
 Screenshots from the assessment process (OWASP ZAP results and application interface) are included in the /images directory.
 
-Project Structure
-FUTURE_CS_02/
-│── README.md
-│── images/
-│── report/
 
 Key Skills Demonstrated
 Web Application Security Testing
