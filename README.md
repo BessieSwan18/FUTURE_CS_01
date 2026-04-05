@@ -11,7 +11,9 @@ Assess the security posture of a web application I developed
 Identify vulnerabilities using industry-standard tools
 Analyze common web security misconfigurations
 Demonstrate practical knowledge of web application security
+
 🧰 Tools & Technologies
+
 OWASP ZAP – Automated vulnerability scanning
 Nmap – Network discovery and port scanning
 Node.js (Express) – Application backend
